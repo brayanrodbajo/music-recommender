@@ -7,4 +7,4 @@ Python: 3.7+
 
 Execution: 
 ``` 
-python recommender.py /path/to/music /path/to/output/file
+python recommender.py /path/to/folder/with/music /path/to/output/csv/file
